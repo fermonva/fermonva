@@ -17,9 +17,10 @@ const fermonva = {
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [
     React,
+    Boostrap,
+    Tailwind,
     Node,
     Styled-Components,
-    Primereact,
     Codeigniter,
     Laravel,
     Mysql,
