@@ -19,7 +19,7 @@ const fermonva = {
     React,
     Boostrap,
     Tailwind,
-    Node,
+    NodeJs,
     Styled-Components,
     Codeigniter,
     Laravel,
