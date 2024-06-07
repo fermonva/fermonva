@@ -14,15 +14,10 @@
 ```js
 const fermonva = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP],
+  code: [NodeJs, NextJs, ReactJs, Javascript, Typescript, HTML, CSS, PHP, Codeigniter, Laravel],
   tools: [
-    React,
     Boostrap,
     Tailwind,
-    NodeJs,
-    Styled-Components,
-    Codeigniter,
-    Laravel,
     Mysql,
     Postgres,
     Sqlserver,
