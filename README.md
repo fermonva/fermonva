@@ -14,7 +14,7 @@
 ```js
 const fermonva = {
   pronouns: "he" | "him",
-  code: [NodeJs, NextJs, ReactJs, Javascript, Typescript, PHP, Codeigniter, Laravel],
+  code: [NodeJs, NextJs, ReactJs, Javascript, Typescript, Php, Codeigniter, Laravel],
   tools: [
     Boostrap,
     Tailwind,
