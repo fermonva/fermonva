@@ -21,6 +21,7 @@ const fermonva = {
     Mysql,
     Postgres,
     Sqlserver,
+    MongoDB,
     Serverless,
     Docker,
     Git
