@@ -1,27 +1,20 @@
-<!-- Encabezado con un estilo más moderno -->
+<!-- Encabezado con estilo moderno y profesional -->
 <h1 align="center">👋 Hola, soy <strong>Fernando Vargas</strong></h1>
 <h3 align="center">💻 Full Stack Developer | Especialista en Laravel</h3>
 
 ---
 
 ### 🚀 Sobre mí  
-✨ Soy un **desarrollador full stack** con experiencia en la construcción de aplicaciones robustas, escalables y mantenibles.  
+✨ Soy un **desarrollador full stack** con experiencia en la construcción de aplicaciones **robustas, escalables y mantenibles**.  
+
 🔹 En **Laravel** aplico:  
-- 🏗️ **Repository Pattern** para desacoplar lógica de datos  
-- 📦 **ViewModels (DTOs)** para estructurar y retornar la información  
+- 🏗️ **Repository Pattern** para desacoplar la lógica de acceso a datos  
+- 📦 **ViewModels (DTOs)** para estructurar y retornar información clara  
 - ⚙️ **Services** para encapsular la lógica de negocio  
+- 🧩 **Laravel Modular** ([Laracasts](https://laracasts.com/series/modular-laravel)) para construir aplicaciones modulares y escalables  
 - ✅ Siempre bajo principios **SOLID** y **Clean Code**  
 
-💡 Mi objetivo: desarrollar soluciones claras, escalables y fáciles de mantener.  
-
----
-
-### 📫 Contáctame  
-<p align="center">
-  <a href="https://linkedin.com/in/fermonva" target="blank">
-    <img src="https://img.shields.io/badge/-Fernando%20Vargas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+💡 Mi objetivo: desarrollar soluciones **claras, escalables y fáciles de mantener**.  
 
 ---
 
@@ -53,7 +46,14 @@
 ```js
 const fermonva = {
   focus: "Laravel & Backend",
-  laravel: ["Repository Pattern", "ViewModels (DTOs)", "Services", "SOLID", "Clean Code"],
+  laravel: [
+    "Repository Pattern",
+    "ViewModels (DTOs)",
+    "Services",
+    "Laravel Modular",
+    "SOLID",
+    "Clean Code"
+  ],
   code: ["Laravel", "PHP", "NodeJs", "NextJs", "ReactJs", "Javascript", "Typescript", "Codeigniter"],
   databases: ["MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
   tools: ["Bootstrap", "Tailwind", "Docker", "Git", "Serverless"]
